@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Eazy Memory</string>
+    <string name="title_text">My easy Memory</string>
+    <string name="title_hint">write your title</string>
+    <string name="content_hint">write something hoss ...</string>
+    <string name="first_button_text">Submit</string>
+    <string name="detail_title_text">my tile</string>
+    <string name="delet_button_text">Delete</string>
+    <string name="list_button">List</string>
+    <string name="goBackText">Go back</string>
+    <string name="editText">Edit</string>
+    <string name="cancleText">Cancle</string>
+    <string name="savetext">Save</string>
+    <string name="create_text">new +</string>
+</resources>
